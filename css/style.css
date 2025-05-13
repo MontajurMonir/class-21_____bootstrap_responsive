@@ -320,6 +320,17 @@ color: #B88E2F;
   padding: 20px 0;
 }
 /* Footer-Part css End  */
+.back-to-top i{
+  font-size: 60px;
+  color: rgb(228, 127, 127);
+  
+}
 
+.back-to-top{
+position: fixed;
+bottom: 20px;
+right: 20px;
+
+}
 /* Header-Part css Start  */
 /* Header-Part css End  */
